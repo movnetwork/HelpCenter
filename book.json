@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "katex",
+        "chapter-fold",
+        "expandable-chapters"
+    ]
+}
