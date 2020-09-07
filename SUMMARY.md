@@ -25,3 +25,12 @@
 ### 活动
 
 - [超导兑换“200,000BTM锦鲤大放送”活动公告](activity/超导兑换“200,000BTM锦鲤大放送”活动公告.md)
+
+### 帮助
+
+- [常见问题](user/常见问题.md)
+
+### 协议条款
+
+- [Bytom MOV服务协议](agreement/BytomMOV服务协议.md)
+- [Bytom MOV隐私政策](agreement/BytomMOV隐私政策.md)
