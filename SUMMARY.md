@@ -38,7 +38,9 @@
 ### MOV-Web
 
 - [如何连接Byone钱包](web/web连接byone钱包.md)
+- [MOV web如何进行跨链](web/web跨链.md)
 - [MOV web如何进行超导兑换](web/web超导兑换.md)
+- [MOV web如何进行超导理财](web/web超导理财.md)
 
 ### 活动
 
