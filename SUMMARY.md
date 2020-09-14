@@ -2,6 +2,19 @@
 
 * [Wecome](README.md)
 
+### SUP流动性挖矿
+
+- [SUP：一场MOV超导价值捕获的社会实验](sup/SUP一场MOV超导价值捕获的社会实验.md)
+- [SUP流动性挖矿规则](sup/SUP流动性挖矿规则.md)
+
+### Bycoin跨链
+
+- [Bycoin如何创建多链钱包](crosschain/Bycoin如何创建多链钱包.md)
+- [Bycoin如何跨链充值](crosschain/Bycoin如何跨链充值.md)
+- [Bycoin如何跨链提现](crosschain/Bycoin如何跨链提现.md)
+- [Bycoin如何从侧链跨回主链](crosschain/Bycoin如何从侧链跨回主链.md)
+- [Bycoin如何从主链跨入侧链](crosschain/Bycoin如何从主链跨入侧链.md)
+- 
 ### 闪电兑换
 
 - [什么是闪电兑换](flashswap/什么是闪电兑换.md)
