@@ -21,29 +21,25 @@
 
 ### Bycoin教程
 
-#### Bycoin跨链
 - [Bycoin如何创建多链钱包](crosschain/Bycoin如何创建多链钱包.md)
 - [Bycoin如何跨链充值](crosschain/Bycoin如何跨链充值.md)
 - [Bycoin如何跨链提现](crosschain/Bycoin如何跨链提现.md)
 - [Bycoin如何从侧链跨回主链](crosschain/Bycoin如何从侧链跨回主链.md)
 - [Bycoin如何从主链跨入侧链](crosschain/Bycoin如何从主链跨入侧链.md)
-
-####  闪电兑换
-- [什么是闪电兑换](flashswap/什么是闪电兑换.md)
 - [闪电兑换新手指南](flashswap/闪电兑换新手指南.md)
 - [闪电兑换交易费率](flashswap/闪电兑换交易费率.md)
-
-#### 磁力兑换
-- [什么是磁力兑换](magentswap/什么是磁力兑换.md)
 - [磁力兑换新手指南](magentswap/磁力兑换新手指南.md)
 - [磁力兑换交易费率](magentswap/磁力兑换交易费率.md)
-
-#### 超导兑换
-- [什么是超导兑换](supertx/什么是超导兑换.md)
-- [什么是无常损失](supertx/什么是无常损失.md)
 - [超导兑换交易指南](supertx/超导兑换交易指南.md)
 - [超导兑换双币理财指南](supertx/超导兑换双币理财指南.md)
 - [超导兑换单币理财指南](supertx/超导兑换单币理财指南.md)
+
+### 名词解释
+
+- [什么是闪电兑换](flashswap/什么是闪电兑换.md)
+- [什么是磁力兑换](magentswap/什么是磁力兑换.md)
+- [什么是超导兑换](supertx/什么是超导兑换.md)
+- [什么是无常损失](supertx/什么是无常损失.md)
 
 ### 活动
 
