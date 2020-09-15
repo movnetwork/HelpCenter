@@ -5,8 +5,10 @@
 ------
 ### SUP流动性挖矿
 
-- [SUP：一场MOV超导价值捕获的社会实验](sup/SUP一场MOV超导价值捕获的社会实验.md)
-- [SUP流动性挖矿规则](sup/SUP流动性挖矿规则.md)
+- [SUP：一场MOV超导价值捕获的社会实验](sup/SUP：一场MOV超导价值捕获的社会实验.md)
+- [SUP流动性挖矿细节](sup/SUP流动性挖矿细节.md)
+- [SUP项目路线图](sup/SUP路线图.md)
+- [保姆级教程——如何获取SUP？](sup/保姆级教程——如何获取SUP.md)
 
 ### MOV-Web教程
 
