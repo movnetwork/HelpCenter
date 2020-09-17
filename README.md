@@ -9,6 +9,7 @@
 - [SUP流动性挖矿细节](sup/SUP流动性挖矿细节.md)
 - [SUP项目路线图](sup/SUP路线图.md)
 - [保姆级教程——如何获取SUP？](sup/保姆级教程——如何获取SUP.md)
+- [保姆级教程二：如何通过网页端来挖SUP？](sup/保姆级教程二：如何通过网页端来挖SUP.md)
 - [SUP流动性挖矿FAQ](sup/SUP流动性挖矿FAQ.md)
 
 ### MOV-Web教程
