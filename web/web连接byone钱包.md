@@ -23,7 +23,7 @@
 
 #### 1.2、通过离线安装包安装
 
-鼠标悬停至“crx文件安装”，点击“下载”，将文件名为"byone.crx"的离线安装包下载至本地
+鼠标悬停至“ZIP文件安装”，点击“下载”，将文件名为"byone.zip"的离线安装包下载至本地。 
 
 ![](../images/web/web-connect5.png)
 ![](../images/web/web-connect6.png)
