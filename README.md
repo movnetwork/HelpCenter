@@ -5,7 +5,7 @@
 ------
 
 - [【置顶】Bycoin至Byone无缝迁移方案](web/Bycoin至Byone无缝迁移方案.md)
-- [【置顶】致 SUP 用户：MOV 超导社区治理草案](sup/致 SUP 用户：MOV 超导社区治理草案)
+- [【置顶】致 SUP 用户：MOV 超导社区治理草案](sup/致SUP用户：MOV超导社区治理草案.md)
 
 ### SUP流动性挖矿
 
