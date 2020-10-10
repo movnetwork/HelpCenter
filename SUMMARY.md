@@ -51,15 +51,15 @@
 
 ### MOV：比原链DeFi协议簇
 
-- [MOV：下一代去中心跨链 Layer 2 价值交换协议](1.md)
-- [MOV 门限签名方案](2.md)
-- [MOV 安全多方计算](3.md)
-- [MOV 交叉跨链系统](4.md)
-- [MOV 超导：一种基于 CFMM 的新型稳定资产兑换协议](5.md)
-- [MOV 超导 V2：一种基于无限网格的 AMM 资产兑换协议](6.md)
-- [MOV 稳定金融体系白皮书](7.md)
-- [MOV 稳定币论文（英文版）](8.md)
-- [附录](9.md)
+- [MOV：下一代去中心跨链 Layer 2 价值交换协议](movprotocol/1.md)
+- [MOV 门限签名方案](movprotocol/2.md)
+- [MOV 安全多方计算](movprotocol/3.md)
+- [MOV 交叉跨链系统](movprotocol/4.md)
+- [MOV 超导：一种基于 CFMM 的新型稳定资产兑换协议](movprotocol/5.md)
+- [MOV 超导 V2：一种基于无限网格的 AMM 资产兑换协议](movprotocol/6.md)
+- [MOV 稳定金融体系白皮书](movprotocol/7.md)
+- [MOV 稳定币论文（英文版）](movprotocol/8.md)
+- [附录](movprotocol/9.md)
 
 ### 帮助
 
