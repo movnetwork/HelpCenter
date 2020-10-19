@@ -4,7 +4,7 @@
 
 ------
 
-- [【置顶】Bycoin至Byone无缝迁移方案](web/Bycoin至Byone无缝迁移方案.md)
+- [【置顶】超导协议治理详细规则](sup/超导协议治理详细规则.md)
 - [【置顶】致 SUP 用户：MOV 超导社区治理草案](sup/致SUP用户：MOV超导社区治理草案.md)
 
 ### SUP流动性挖矿
@@ -22,6 +22,7 @@
 - [MOV web如何进行跨链](web/web跨链.md)
 - [MOV web如何进行超导兑换](web/web超导兑换.md)
 - [MOV web如何进行超导理财](web/web超导理财.md)
+- [Bycoin至Byone无缝迁移方案](web/Bycoin至Byone无缝迁移方案.md)
 
 ### Bycoin教程
 
