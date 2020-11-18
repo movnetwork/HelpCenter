@@ -30,6 +30,7 @@
 
 ### Bycoin教程
 
+- [MOV上新LTC，转账跨链交易全教程](supertx/MOV上新LTC，转账跨链交易全教程.md)
 - [Bycoin如何创建多链钱包](crosschain/Bycoin如何创建多链钱包.md)
 - [Bycoin如何跨链充值](crosschain/Bycoin如何跨链充值.md)
 - [Bycoin如何跨链提现](crosschain/Bycoin如何跨链提现.md)
