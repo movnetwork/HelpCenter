@@ -1,6 +1,6 @@
 # Summary
 
-* [Wecome](README.md)
+* [Welcome](README.md)
 
 # 帮助中心文档
 
