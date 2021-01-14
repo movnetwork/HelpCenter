@@ -4,7 +4,7 @@
 
 
 
-2、复制http://t.rainoy.com/mag BAPP链接（或者直接点击BAPP banner进入空投领取页面）
+2、复制https://magnex.bymov.io/mag BAPP链接（或者直接点击BAPP banner进入空投领取页面）
 
 ![img](../images/mag/kt/领取1.png)
 
