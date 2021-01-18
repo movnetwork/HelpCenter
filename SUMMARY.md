@@ -8,7 +8,8 @@
 
 ------
 
-- [【置顶】MOV支持波卡（DOT）跨链及DOT-BTM超导交易对开放公告](notify/DOT上线公告.md)
+- [【置顶】MOV支持波卡（DOT）跨链公告](notify/DOT上线公告.md)
+- [【置顶】波卡DOT跨链教程](crosschain/DOT跨链教程.md)
 - [【置顶】磁力兑换挂单手续费浮动通知](notify/磁力兑换挂单手续费浮动通知.md)
 - [【置顶】MAG空投领取FAQ](mag/MAG空投FAQ.md)
 - [【置顶】磁力兑换撤单手续费变更通知](notify/磁力兑换撤单手续费变更通知.md)
