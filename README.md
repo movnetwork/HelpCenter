@@ -4,6 +4,7 @@
 
 ------
 
+- [【置顶】MOV支持波卡（DOT）跨链及DOT-BTM超导交易对开放公告](notify/DOT上线公告.md)
 - [【置顶】磁力兑换挂单手续费浮动通知](notify/磁力兑换挂单手续费浮动通知.md)
 - [【置顶】MAG空投领取FAQ](mag/MAG空投FAQ.md)
 - [【置顶】磁力兑换撤单手续费变更通知](notify/磁力兑换撤单手续费变更通知.md)
@@ -38,6 +39,7 @@
 
 ### Bycoin教程
 
+- [波卡DOT跨链教程](crosschain/DOT跨链教程.md)
 - [MOV上新LTC，转账跨链交易全教程](supertx/MOV上新LTC，转账跨链交易全教程.md)
 - [Bycoin如何创建多链钱包](crosschain/Bycoin如何创建多链钱包.md)
 - [Bycoin如何跨链充值](crosschain/Bycoin如何跨链充值.md)
