@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】关于超导兑换协议阶梯费率设置公告](notify/SuperTxFee.md)
 - [【置顶】MOV支持波卡（DOT）跨链公告](notify/DOT上线公告.md)
 - [【置顶】波卡DOT跨链教程](crosschain/DOT跨链教程.md)
 - [【置顶】磁力兑换挂单手续费浮动通知](notify/磁力兑换挂单手续费浮动通知.md)
