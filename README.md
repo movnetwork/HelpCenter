@@ -65,6 +65,7 @@
 
 ### MOV：比原链DeFi协议簇
 
+- [MOV 借贷：基于算法模型的链上利率协议](movprotocol/mov_load.md)
 - [MOV：下一代去中心跨链 Layer 2 价值交换协议](movprotocol/1.md)
 - [MOV 门限签名方案](movprotocol/2.md)
 - [MOV 安全多方计算](movprotocol/3.md)
