@@ -8,8 +8,7 @@
 
 ------
 
-- [【置顶】MOV借贷协议上线公告](notify/loan.md)
-- [【置顶】MOV借贷使用指南](loan/loanGuide.md)
+- [[【置顶】MOV借贷使用指南](loan/loanGuide.md)
 - [【置顶】MOV借贷FAQ](loan/loanFAQ.md)
 - [【置顶】Web端磁力兑换上线公告](notify/Web端磁力兑换上线公告.md)
 - [【置顶】关于超导兑换协议阶梯费率设置公告](notify/SuperTxFee.md)
