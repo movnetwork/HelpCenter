@@ -4,12 +4,17 @@
 
 ------
 
+- [【置顶】MOV借贷协议上线公告](notify/loan.md)
 - [【置顶】MOV借贷使用指南](loan/loanGuide.md)
 - [【置顶】MOV借贷FAQ](loan/loanFAQ.md)
 - [【置顶】Web端磁力兑换上线公告](notify/Web端磁力兑换上线公告.md)
 - [【置顶】关于超导兑换协议阶梯费率设置公告](notify/SuperTxFee.md)
-- [【置顶】MOV支持波卡（DOT）跨链公告](notify/DOT上线公告.md)
-- [【置顶】波卡DOT跨链教程](crosschain/DOT跨链教程.md)
+
+### 借贷
+
+- [MOV借贷使用指南](loan/loanGuide.md)
+- [MOV借贷FAQ](loan/loanFAQ.md)
+- [关于MOV借贷参数的附加说明](loan/loanParam.md)
 
 ### MAG流动性挖矿
 
@@ -85,6 +90,8 @@
 
 ### 通知历史
 
+- [MOV支持波卡（DOT）跨链公告](notify/DOT上线公告.md)
+- [波卡DOT跨链教程](crosschain/DOT跨链教程.md)
 - [磁力兑换挂单手续费浮动通知](notify/磁力兑换挂单手续费浮动通知.md)
 - [MAG空投领取FAQ](mag/MAG空投FAQ.md)
 - [磁力兑换撤单手续费变更通知](notify/磁力兑换撤单手续费变更通知.md)
