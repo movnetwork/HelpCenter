@@ -4,6 +4,7 @@
 
 ------
 
+- [【置顶】MOV即将上线稳定币借贷公告](notify/MOV即将上线稳定币借贷公告.md)
 - [【置顶】MOV借贷使用指南](loan/loanGuide.md)
 - [【置顶】MOV借贷FAQ](loan/loanFAQ.md)
 - [【置顶】Web端磁力兑换上线公告](notify/Web端磁力兑换上线公告.md)
