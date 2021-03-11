@@ -4,7 +4,7 @@
 
 ------
 
-- [【置顶】Bycoin V2.3.2更新公告](notify/Bycoin V2.3.2更新公告.md)
+- [【置顶】Bycoin V2.3.2更新公告](notify/BycoinV2.3.2更新公告.md)
 - [【置顶】MOV即将上线稳定币借贷公告](notify/MOV即将上线稳定币借贷公告.md)
 - [【置顶】MOV借贷使用指南](loan/loanGuide.md)
 - [【置顶】MOV借贷FAQ](loan/loanFAQ.md)
