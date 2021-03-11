@@ -10,4 +10,6 @@ Bycoin V2.3.2已更新，此次更新优化如下：
 
 5、解决部分已知问题
 
-下载Bycoin钱包最新版（https://blockmeta.com/wallet/）也可立即体验MOV稳定币借贷。
+下载Bycoin钱包最新版（https://blockmeta.com/wallet/）
+
+也可立即体验MOV稳定币借贷。
