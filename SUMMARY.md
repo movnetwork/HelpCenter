@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】Bycoin V2.3.3更新公告](notify/BycoinV2.3.3更新公告.md)
 - [【置顶】BTM2.0 白皮书](WhitePaper-Bytom%202.0-cn.pdf)
 - [【置顶】系统维护公告2021.3.17](notify/系统维护公告2021.3.17.md)
 - [【置顶】Bycoin V2.3.2更新公告](notify/BycoinV2.3.2更新公告.md)
