@@ -4,6 +4,7 @@
 
 ------
 
+- [【置顶】MOV超导兑换WEB端更新公告](notify/MOV超导兑换WEB端更新公告.md)
 - [【置顶】ZKS上线公告](notify/ZKS上线公告.md)
 - [【置顶】Bycoin V2.3.3更新公告](notify/BycoinV2.3.3更新公告.md)
 - [【置顶】BTM2.0 白皮书](WhitePaper-Bytom%202.0-cn.pdf)
