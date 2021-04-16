@@ -8,13 +8,11 @@
 
 ------
 
+- [【置顶】ZKS收益发放公告](notify/ZKS收益发放公告.md)
 - [【置顶】MOV超导兑换WEB端更新公告](notify/MOV超导兑换WEB端更新公告.md)
 - [【置顶】ZKS上线公告](notify/ZKS上线公告.md)
 - [【置顶】Bycoin V2.3.3更新公告](notify/BycoinV2.3.3更新公告.md)
 - [【置顶】BTM2.0 白皮书](WhitePaper-Bytom%202.0-cn.pdf)
-- [【置顶】系统维护公告2021.3.17](notify/系统维护公告2021.3.17.md)
-- [【置顶】Bycoin V2.3.2更新公告](notify/BycoinV2.3.2更新公告.md)
-- [【置顶】MOV即将上线稳定币借贷公告](notify/MOV即将上线稳定币借贷公告.md)
 
 ### 借贷
 
@@ -108,3 +106,6 @@
 - [关于缩短提案投票时间的公告](notify/关于缩短提案投票时间的公告.md)
 - [关于上线莱特币的公告](notify/关于上线莱特币的公告.md)
 - [关于取消磁力兑换挖矿活动的公告](notify/关于取消磁力兑换挖矿活动的公告.md)
+- [系统维护公告2021.3.17](notify/系统维护公告2021.3.17.md)
+- [Bycoin V2.3.2更新公告](notify/BycoinV2.3.2更新公告.md)
+- [MOV即将上线稳定币借贷公告](notify/MOV即将上线稳定币借贷公告.md)
