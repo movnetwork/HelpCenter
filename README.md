@@ -45,6 +45,7 @@
 
 ### Bycoin教程
 
+- [Bycoin如何从侧链跨回任意的主链地址](crosschain/Bycoin如何从侧链跨回任意的主链地址.md)
 - [波卡DOT跨链教程](crosschain/DOT跨链教程.md)
 - [MOV上新LTC，转账跨链交易全教程](supertx/MOV上新LTC，转账跨链交易全教程.md)
 - [Bycoin如何创建多链钱包](crosschain/Bycoin如何创建多链钱包.md)
