@@ -4,6 +4,7 @@
 
 ------
 
+- [【置顶】MOV超导协议开放ZKS-BTM交易对](notify/MOV超导协议开放ZKS-BTM交易对.md)
 - [【置顶】Bycoin V2.3.4更新公告](notify/BycoinV2.3.4更新公告.md)
 - [【置顶】ZKS收益发放公告](notify/ZKS收益发放公告.md)
 - [【置顶】MOV超导兑换WEB端更新公告](notify/MOV超导兑换WEB端更新公告.md)
