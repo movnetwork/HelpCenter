@@ -17,6 +17,8 @@
  
 ZKSwap作为目前第一批以ZK-Rollups为技术模型的Layer 2的AMM DEX，生态整体进展较为迅速。
 
-从ZK-Rollups方案看，其在可扩展性、安全性、可用性以及性能等方面达到了一个很好的平衡，非常具有应用前景，因此ZKSwap在行业内，也能够给予其他DeFi协议迁移至ZK-Rollups的Layer 2提供引领和参照的作用。
+从ZK-Rollups方案看，其在可扩展性、安全性、可用性以及性能等方面达到了一个很好的平衡，非常具有应用前景。
+
+因此ZKSwap在行业内，也能够给予其他DeFi协议迁移至ZK-Rollups的Layer 2提供引领和参照的作用。
  
 ZKSwap将为比原链提供 Layer2 扩容方案的技术支持，未来双方将共同打造 Layer2 可扩展性基础设施，为更多生态项目提供二层扩容解决方案。目前，ZKSwap 也已上线 mBTM/ZKS 交易对。
