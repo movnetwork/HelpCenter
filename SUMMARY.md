@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
 - [【置顶】比原链与PolyNetwork战略合作升级](notify/比原链与PolyNetwork战略合作升级.md)
 - [【置顶】比原链与ZKSwap达成深度战略合作](notify/比原链与ZKSwap达成深度战略合作.md)
 - [【置顶】MOV超导协议开放ZKS-BTM交易对](notify/MOV超导协议开放ZKS-BTM交易对.md)
