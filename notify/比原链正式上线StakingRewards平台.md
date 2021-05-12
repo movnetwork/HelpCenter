@@ -17,7 +17,8 @@
 
 （5）Staking Rewards在未来几个月中，将持续关注并报道Bytom2.0相关信息。
 
-关于Staking Rewards
+## 关于Staking Rewards
+
 Stakingrewards是全球最大的质押项目排名网站，也是数字资产委托权益收益数据库，被誉为质押项目领域的Coinmarketcap。
 
 Staking Rewards 重点关注质押证明协议，旨在收集知识并建立安全的质押和 defi 生态系统。
