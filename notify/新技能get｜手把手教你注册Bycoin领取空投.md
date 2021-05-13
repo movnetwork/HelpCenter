@@ -1,4 +1,4 @@
-##一、Bycoin的下载
+## 一、Bycoin的下载
 
 1、点击网址：https://blockmeta.com/wallet/ ,目前有两种途径可供下载Bycoin。
 
