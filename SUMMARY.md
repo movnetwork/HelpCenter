@@ -11,13 +11,6 @@
 - [【置顶】比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
 - [【置顶】比原链与PolyNetwork战略合作升级](notify/比原链与PolyNetwork战略合作升级.md)
 - [【置顶】比原链与ZKSwap达成深度战略合作](notify/比原链与ZKSwap达成深度战略合作.md)
-- [【置顶】MOV超导协议开放ZKS-BTM交易对](notify/MOV超导协议开放ZKS-BTM交易对.md)
-- [【置顶】Bycoin V2.3.4更新公告](notify/BycoinV2.3.4更新公告.md)
-- [【置顶】ZKS收益发放公告](notify/ZKS收益发放公告.md)
-- [【置顶】MOV超导兑换WEB端更新公告](notify/MOV超导兑换WEB端更新公告.md)
-- [【置顶】ZKS上线公告](notify/ZKS上线公告.md)
-- [【置顶】Bycoin V2.3.3更新公告](notify/BycoinV2.3.3更新公告.md)
-- [【置顶】BTM2.0 白皮书](WhitePaper-Bytom%202.0-cn.pdf)
 
 ### 借贷
 
@@ -61,6 +54,7 @@
 - [Bycoin如何跨链提现](crosschain/Bycoin如何跨链提现.md)
 - [Bycoin如何从侧链跨回主链](crosschain/Bycoin如何从侧链跨回主链.md)
 - [Bycoin如何从主链跨入侧链](crosschain/Bycoin如何从主链跨入侧链.md)
+- [如何注册Bycoin钱包](user/如何注册Bycoin钱包.md)
 - [交易费率详情](feeRate/交易费率详情.md)
 - [闪电兑换新手指南](flashswap/闪电兑换新手指南.md)
 - [磁力兑换新手指南](magentswap/磁力兑换新手指南.md)
@@ -115,3 +109,10 @@
 - [系统维护公告2021.3.17](notify/系统维护公告2021.3.17.md)
 - [Bycoin V2.3.2更新公告](notify/BycoinV2.3.2更新公告.md)
 - [MOV即将上线稳定币借贷公告](notify/MOV即将上线稳定币借贷公告.md)
+- [MOV超导协议开放ZKS-BTM交易对](notify/MOV超导协议开放ZKS-BTM交易对.md)
+- [Bycoin V2.3.4更新公告](notify/BycoinV2.3.4更新公告.md)
+- [ZKS收益发放公告](notify/ZKS收益发放公告.md)
+- [MOV超导兑换WEB端更新公告](notify/MOV超导兑换WEB端更新公告.md)
+- [ZKS上线公告](notify/ZKS上线公告.md)
+- [Bycoin V2.3.3更新公告](notify/BycoinV2.3.3更新公告.md)
+- [BTM2.0 白皮书](WhitePaper-Bytom%202.0-cn.pdf)
