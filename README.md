@@ -4,6 +4,8 @@
 
 ------
 
+- [【置顶】新技能get｜手把手教你注册Bycoin领取空投](notify/新技能get｜手把手教你注册Bycoin领取空投.md)
+- [【置顶】神奇动物在Bycoin](notify/神奇动物在Bycoin.md)
 - [【置顶】比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
 - [【置顶】比原链与PolyNetwork战略合作升级](notify/比原链与PolyNetwork战略合作升级.md)
 - [【置顶】比原链与ZKSwap达成深度战略合作](notify/比原链与ZKSwap达成深度战略合作.md)
