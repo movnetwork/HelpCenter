@@ -58,6 +58,7 @@
 - [Bycoin如何跨链提现](crosschain/Bycoin如何跨链提现.md)
 - [Bycoin如何从侧链跨回主链](crosschain/Bycoin如何从侧链跨回主链.md)
 - [Bycoin如何从主链跨入侧链](crosschain/Bycoin如何从主链跨入侧链.md)
+- [如何注册Bycoin钱包](user/如何注册Bycoin钱包.md)
 - [交易费率详情](feeRate/交易费率详情.md)
 - [闪电兑换新手指南](flashswap/闪电兑换新手指南.md)
 - [磁力兑换新手指南](magentswap/磁力兑换新手指南.md)
