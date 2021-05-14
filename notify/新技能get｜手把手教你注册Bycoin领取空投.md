@@ -1,6 +1,10 @@
 ## 一、Bycoin的下载
 
-1、点击网址：https://blockmeta.com/wallet/ ,目前有两种途径可供下载Bycoin。
+1、点击网址：https://blockmeta.com/wallet/ ,请选择对应的版本进行下载。安卓用户点击【Android】直接下载。
+
+![](../images/notify/animal/animal0.png)
+
+iOS用户目前有两种途径可供下载Bycoin。
 
 注意：两种途径均需要使用海外APPLE ID，点击页面链接可以查看海外APPLE ID教程。
 
@@ -26,9 +30,15 @@
 
 ![](../images/notify/animal/animal5.png)
 
-4、进入【TestFlight】，安装【Bycoin】
+4、安装【Bycoin】
+
+退出【TesyFlight】，点击进入：https://blockmeta.com/wallet/ ，点击【立即下载】，点击弹窗中的【打开】，即可跳转至【TestFlight】页面。
 
 ![](../images/notify/animal/animal6.png)
+
+在【TestFlight】页面点击【接受】、【安装】，即可完成【Bycoin】的安装。
+
+![](../images/notify/animal/animal62.png)
 
 ### 【途径2】
 
