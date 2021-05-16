@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】Bycoin钱包SHIB、HOKK、KISHU挖矿教程](notify/Bycoin钱包SHIB、HOKK、KISHU挖矿教程.md)
 - [【置顶】新技能get｜手把手教你注册Bycoin领取空投](notify/新技能get｜手把手教你注册Bycoin领取空投.md)
 - [【置顶】神奇动物在Bycoin](notify/神奇动物在Bycoin.md)
 - [【置顶】比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
