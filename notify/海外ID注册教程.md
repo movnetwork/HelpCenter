@@ -22,8 +22,6 @@
 
 点击下一步，创建完成。
 
-![](../images/notify/overseaid/overseaID5.png)
-
 ## 4、登录账户，修改信息
 
 在电脑网页修改Apple ID国家和区域，在电脑浏览器中输入网址：http://appleid.apple.com ，并登陆放才用手机完成注册的Apple ID。
