@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】Bytom2.0 Solonet版正式发布](notify/Bytom2.0Solonet版正式发布.md)
 - [【置顶】海外ID注册教程](notify/海外ID注册教程.md)
 - [【置顶】比原链与Frax达成战略合作将引入算法稳定币Frax至MOV生态](notify/比原链与Frax达成战略合作将引入算法稳定币Frax至MOV生态.md)
 - [【置顶】Bycoin钱包SHIB、HOKK、KISHU挖矿教程](notify/Bycoin钱包SHIB、HOKK、KISHU挖矿教程.md)
