@@ -1,4 +1,4 @@
-![](..images/destroyrecords/destroyrecords10.png)
+![](../images/destroyrecords/destroyrecords10.png)
 
 尊敬的用户，您好：
 
