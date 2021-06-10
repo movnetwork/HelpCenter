@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】Bytom2.0测试网alpha版本上线](notify/Bytom2.0测试网alpha版本上线.md)
 - [【置顶】BTM主网币兑换教程](notify/BTM主网币兑换教程.md)
 - [【置顶】MOV五月超导手续费回购销毁SUP已完成](notify/MOV五月超导手续费回购销毁SUP已完成.md)
 - [【置顶】Solonet体验教程](bytom2/Solonet体验教程.md)
