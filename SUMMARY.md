@@ -8,6 +8,7 @@
 
 ------
 
+- [【置顶】MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
 - [【置顶】Bytom2.0全球共识节点竞选正式开启](bytom2/Bytom2.0全球共识节点竞选正式开启.md)
 - [【置顶】MixinNetwork和比原链战略合作升级](notify/MixinNetwork和比原链战略合作升级.md)
 - [【置顶】Bytom2.0共识算法介绍](bytom2/Bytom2.0共识算法介绍.md)
