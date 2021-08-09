@@ -4,6 +4,7 @@
 
 ------
 
+- [【置顶】Bytom2.0常见问题解答](notify/Bytom2.0常见问题解答.md)
 - [【置顶】MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
 - [【置顶】Bytom2.0全球共识节点竞选正式开启](bytom2/Bytom2.0全球共识节点竞选正式开启.md)
 - [【置顶】MixinNetwork和比原链战略合作升级](notify/MixinNetwork和比原链战略合作升级.md)
@@ -14,14 +15,6 @@
 - [【置顶】Solonet体验教程](bytom2/Solonet体验教程.md)
 - [【置顶】Bytom2.0 Solonet版正式发布](notify/Bytom2.0Solonet版正式发布.md)
 - [【置顶】海外ID注册教程](notify/海外ID注册教程.md)
-- [【置顶】比原链与Frax达成战略合作将引入算法稳定币Frax至MOV生态](notify/比原链与Frax达成战略合作将引入算法稳定币Frax至MOV生态.md)
-- [【置顶】Bycoin钱包SHIB、HOKK、KISHU挖矿教程](notify/Bycoin钱包SHIB、HOKK、KISHU挖矿教程.md)
-- [【置顶】新技能get｜手把手教你注册Bycoin领取空投](notify/新技能get｜手把手教你注册Bycoin领取空投.md)
-- [【置顶】神奇动物在Bycoin](notify/神奇动物在Bycoin.md)
-- [【置顶】比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
-- [【置顶】比原链与PolyNetwork战略合作升级](notify/比原链与PolyNetwork战略合作升级.md)
-- [【置顶】比原链与ZKSwap达成深度战略合作](notify/比原链与ZKSwap达成深度战略合作.md)
-
 
 ### 借贷
 
@@ -127,3 +120,10 @@
 - [ZKS上线公告](notify/ZKS上线公告.md)
 - [Bycoin V2.3.3更新公告](notify/BycoinV2.3.3更新公告.md)
 - [BTM2.0 白皮书](WhitePaper-Bytom%202.0-cn.pdf)
+- [比原链与Frax达成战略合作将引入算法稳定币Frax至MOV生态](notify/比原链与Frax达成战略合作将引入算法稳定币Frax至MOV生态.md)
+- [Bycoin钱包SHIB、HOKK、KISHU挖矿教程](notify/Bycoin钱包SHIB、HOKK、KISHU挖矿教程.md)
+- [新技能get｜手把手教你注册Bycoin领取空投](notify/新技能get｜手把手教你注册Bycoin领取空投.md)
+- [神奇动物在Bycoin](notify/神奇动物在Bycoin.md)
+- [比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
+- [比原链与PolyNetwork战略合作升级](notify/比原链与PolyNetwork战略合作升级.md)
+- [比原链与ZKSwap达成深度战略合作](notify/比原链与ZKSwap达成深度战略合作.md)
