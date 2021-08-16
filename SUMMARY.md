@@ -8,15 +8,9 @@
 
 ------
 
-### 【置顶】Bytom2.0手册
-
-- [Bytom2.0上线和映射时间](bytom2/Bytom2.0上线和映射时间.md)
-- [Bytom2.0资产映射和流通问题解答](bytom2/Bytom2.0资产映射和流通问题解答.md)
-- [Bytom2.0产品和功能问题解答](bytom2/Bytom2.0产品和功能问题解答.md)
-- [Bytom2.0链相关问题解答](bytom2/Bytom2.0链相关问题解答.md)
-
 ### 最新通知
 
+- [Bytom2.0主网预计8月20日正式上线](bytom2/Bytom2.0主网预计8月20日正式上线.md) 
 - [Bytom2.0常见问题解答](notify/Bytom2.0常见问题解答.md)
 - [MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
 - [Bytom2.0全球共识节点竞选正式开启](bytom2/Bytom2.0全球共识节点竞选正式开启.md)
@@ -28,6 +22,13 @@
 - [Solonet体验教程](bytom2/Solonet体验教程.md)
 - [Bytom2.0 Solonet版正式发布](notify/Bytom2.0Solonet版正式发布.md)
 - [海外ID注册教程](notify/海外ID注册教程.md)
+- 
+### Bytom2.0手册
+
+- [Bytom2.0上线和映射时间](bytom2/Bytom2.0上线和映射时间.md)
+- [Bytom2.0资产映射和流通问题解答](bytom2/Bytom2.0资产映射和流通问题解答.md)
+- [Bytom2.0产品和功能问题解答](bytom2/Bytom2.0产品和功能问题解答.md)
+- [Bytom2.0链相关问题解答](bytom2/Bytom2.0链相关问题解答.md)
 
 ### 借贷
 
