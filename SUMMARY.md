@@ -10,6 +10,7 @@
 
 ### 最新通知
 
+- [【置顶】2.0即将来袭，Bytom 2.0百科竞赛开启，答题赢取6,000BTM大奖](bytom2/Bytom2.0百科竞赛.md) 
 - [Bytom2.0主网预计8月20日正式上线](bytom2/Bytom2.0主网预计8月20日正式上线.md) 
 - [Bytom2.0常见问题解答](notify/Bytom2.0常见问题解答.md)
 - [MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
