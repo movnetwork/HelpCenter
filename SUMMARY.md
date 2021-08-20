@@ -10,6 +10,8 @@
 
 ### 最新通知
 
+- [【置顶】Bycoin使用手册](user/Bycoin使用手册.md)
+- [【置顶】Bycoin资产映射完毕](user/Bycoin资产映射完毕.md)
 - [【置顶】Bytom2.0正式上线](bytom2/Bytom2.0正式上线.md)
 - [【置顶】Bytom2.0主网切换公告](bytom2/Bytom2.0主网切换公告.md)
 - [【置顶】关于Bycoin支持Bytom2.0升级公告](notify/关于Bycoin支持Bytom2.0升级公告.md)
