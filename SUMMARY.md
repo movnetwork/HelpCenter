@@ -10,6 +10,7 @@
 
 ### 最新通知
 
+- [【置顶】Bytom2.0销毁完成](bytom2/Bytom2.0销毁完成.md)
 - [【置顶】Bytom2.0常见问题解答](bytom2/Bytom2.0常见问题解答.md)
 - [【置顶】Bycoin使用手册](user/Bycoin使用手册.md)
 - [【置顶】Bycoin资产映射完毕](user/Bycoin资产映射完毕.md)
