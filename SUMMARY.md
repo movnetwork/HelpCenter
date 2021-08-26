@@ -10,6 +10,7 @@
 
 ### 最新通知
 
+- [【置顶】BTMC侧链资产已映射完毕](user/BTMC侧链资产已映射完毕.md)
 - [【置顶】Bytom2.0销毁完成](bytom2/Bytom2.0销毁完成.md)
 - [【置顶】Bytom2.0常见问题解答](bytom2/Bytom2.0常见问题解答.md)
 - [【置顶】Bycoin使用手册](user/Bycoin使用手册.md)
@@ -17,7 +18,7 @@
 - [【置顶】Bytom2.0正式上线](bytom2/Bytom2.0正式上线.md)
 - [【置顶】Bytom2.0主网切换公告](bytom2/Bytom2.0主网切换公告.md)
 - [【置顶】关于Bycoin支持Bytom2.0升级公告](notify/关于Bycoin支持Bytom2.0升级公告.md)
-- [【置顶】2.0即将来袭，Bytom 2.0百科竞赛开启，答题赢取6,000BTM大奖](bytom2/Bytom2.0百科竞赛.md) 
+- [2.0即将来袭，Bytom 2.0百科竞赛开启，答题赢取6,000BTM大奖](bytom2/Bytom2.0百科竞赛.md) 
 - [Bytom2.0主网预计8月20日正式上线](bytom2/Bytom2.0主网预计8月20日正式上线.md) 
 - [Bytom2.0常见问题解答](notify/Bytom2.0常见问题解答.md)
 - [MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
