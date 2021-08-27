@@ -11,7 +11,7 @@
 ### 最新通知
 
 
-- [【置顶】Bytom2.0已成功通过慢雾安全审计](bytom2/Bytom2.0-Security-Audit-Report.pdf)
+- [【置顶】Bytom2.0已成功通过慢雾安全审计](bytom2/Bytom2.0成功通过慢雾安全审计.md)
 - [【置顶】BTMC侧链资产已映射完毕](user/BTMC侧链资产已映射完毕.md)
 - [【置顶】Bytom2.0销毁完成](bytom2/Bytom2.0销毁完成.md)
 - [【置顶】Bytom2.0常见问题解答](bytom2/Bytom2.0常见问题解答.md)
