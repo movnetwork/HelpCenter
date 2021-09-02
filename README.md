@@ -6,6 +6,7 @@
 
 ### 最新通知
 
+- [【置顶】MOV八月超导手续费回购销毁SUP已完成](notify/MOV八月超导手续费回购销毁SUP已完成.md)
 - [【置顶】Bytom2.0已成功通过慢雾安全审计](bytom2/Bytom2.0成功通过慢雾安全审计.md)
 - [【置顶】BTMC侧链资产已映射完毕](user/BTMC侧链资产已映射完毕.md)
 - [【置顶】Bytom2.0销毁完成](bytom2/Bytom2.0销毁完成.md)
@@ -18,15 +19,7 @@
 - [2.0即将来袭，Bytom 2.0百科竞赛开启，答题赢取6,000BTM大奖](bytom2/Bytom2.0百科竞赛.md) 
 - [Bytom2.0主网预计8月20日正式上线](bytom2/Bytom2.0主网预计8月20日正式上线.md) 
 - [Bytom2.0常见问题解答](notify/Bytom2.0常见问题解答.md)
-- [MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
-- [Bytom2.0全球共识节点竞选正式开启](bytom2/Bytom2.0全球共识节点竞选正式开启.md)
-- [MixinNetwork和比原链战略合作升级](notify/MixinNetwork和比原链战略合作升级.md)
-- [Bytom2.0共识算法介绍](bytom2/Bytom2.0共识算法介绍.md)
-- [Bytom2.0测试网alpha版本上线](notify/Bytom2.0测试网alpha版本上线.md)
 - [BTM主网币兑换教程](notify/BTM主网币兑换教程.md)
-- [MOV五月超导手续费回购销毁SUP已完成](notify/MOV五月超导手续费回购销毁SUP已完成.md)
-- [Solonet体验教程](bytom2/Solonet体验教程.md)
-- [Bytom2.0 Solonet版正式发布](notify/Bytom2.0Solonet版正式发布.md)
 - [海外ID注册教程](notify/海外ID注册教程.md)
 
 ### Bytom2.0手册
@@ -35,6 +28,7 @@
 - [Bytom2.0资产映射和流通问题解答](bytom2/Bytom2.0资产映射和流通问题解答.md)
 - [Bytom2.0产品和功能问题解答](bytom2/Bytom2.0产品和功能问题解答.md)
 - [Bytom2.0链相关问题解答](bytom2/Bytom2.0链相关问题解答.md)
+- [Bytom2.0共识算法介绍](bytom2/Bytom2.0共识算法介绍.md)
 
 ### 借贷
 
@@ -147,3 +141,10 @@
 - [比原链正式上线StakingRewards平台](notify/比原链正式上线StakingRewards平台.md)
 - [比原链与PolyNetwork战略合作升级](notify/比原链与PolyNetwork战略合作升级.md)
 - [比原链与ZKSwap达成深度战略合作](notify/比原链与ZKSwap达成深度战略合作.md)
+- [MOV五月超导手续费回购销毁SUP已完成](notify/MOV五月超导手续费回购销毁SUP已完成.md)
+- [Solonet体验教程](bytom2/Solonet体验教程.md)
+- [Bytom2.0 Solonet版正式发布](notify/Bytom2.0Solonet版正式发布.md)
+- [MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
+- [Bytom2.0全球共识节点竞选正式开启](bytom2/Bytom2.0全球共识节点竞选正式开启.md)
+- [MixinNetwork和比原链战略合作升级](notify/MixinNetwork和比原链战略合作升级.md)
+- [Bytom2.0测试网alpha版本上线](notify/Bytom2.0测试网alpha版本上线.md)
