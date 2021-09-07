@@ -150,5 +150,4 @@
 - [Bytom2.0 Solonet版正式发布](notify/Bytom2.0Solonet版正式发布.md)
 - [MOV七月超导手续费回购销毁SUP已完成](notify/MOV七月超导手续费回购销毁SUP已完成.md)
 - [Bytom2.0全球共识节点竞选正式开启](bytom2/Bytom2.0全球共识节点竞选正式开启.md)
-- [MixinNetwork和比原链战略合作升级](notify/MixinNetwork和比原链战略合作升级.md)
 - [Bytom2.0测试网alpha版本上线](notify/Bytom2.0测试网alpha版本上线.md)
