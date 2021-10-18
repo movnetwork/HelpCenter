@@ -10,6 +10,7 @@
 
 ### 最新通知
 
+- [【置顶】MAZ元宇宙协议白皮书正式发布](notify/MAZ元宇宙协议白皮书正式发布.md)
 - [【置顶】MOV九月超导手续费回购销毁SUP已完成](notify/MOV九月超导手续费回购销毁SUP已完成.md)
 - [【置顶】海外著名社区兼研究机构CryptoDiffer加入比原节点竞选](notify/海外著名社区兼研究机构CryptoDiffer加入比原节点竞选.md)
 - [【置顶】MOV将停止为中国用户提供部分服务](notify/MOV将停止为中国用户提供部分服务.md)
