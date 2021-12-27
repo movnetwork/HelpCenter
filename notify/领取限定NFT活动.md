@@ -3,7 +3,7 @@
 ### 移动端用户如何参与活动
 
 1.在活动期间，用户将Bycoin更新至V2.8.2版本，在Bytom主网下点击【Maze】进入活动页面。
-**官方邀请码：MYTYYYYR**
+**初始邀请码：MYTYYYYR**
 Bycoin下载地址：bycoin.im
 
 ![](../images/nftnew/nftnew1.png)
@@ -26,7 +26,7 @@ Bycoin下载地址：bycoin.im
 
 ### Web端用户如何参加活动
 
-**官方邀请码：MYTYYYYR**
+**初始邀请码：MYTYYYYR**
 迷宫协议官网：https://maz.network
 1.Web端用户需要提前安装插件钱包Byone确认为Bytom网络下，点击应用中的【Maze】访问活动页面。
 
