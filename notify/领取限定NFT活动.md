@@ -1,4 +1,4 @@
-## 邀请好友，领取限定NFT活动
+## 邀请好友预注册迷宫协议活动教程
 
 ### 移动端用户如何参与活动
 
@@ -26,9 +26,7 @@ Bycoin下载地址：bycoin.im
 
 ### Web端用户如何参加活动
 
-**初始邀请码：MYTYYYYR**
-迷宫协议官网：https://maz.network
-1.Web端用户需要提前安装插件钱包Byone确认为Bytom网络下，点击应用中的【Maze】访问活动页面。
+1.Web端用户需要提前安装插件钱包Byone确认为Bytom网络下，点击应用中的【Maze】访问活动页面。 **初始邀请码：MYTYYYYR** 迷宫协议官网：https://maz.network
 
 ![](../images/nftnew/nftnew6.png)
 ![](../images/nftnew/nftnew7.png)
